@@ -10,5 +10,7 @@ For substantially more details on the API please see http://mscoco.org/dataset/#
 
 ## Install
 
+    sudo apt-get install python3-dev
+    pip install cython
     pip install git+git://github.com/waspinator/coco.git@2.1.0
 
