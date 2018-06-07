@@ -10,5 +10,5 @@ For substantially more details on the API please see http://mscoco.org/dataset/#
 
 ## Install
 
-
+    pip install git+git://github.com/waspinator/coco.git@2.1.0
 
